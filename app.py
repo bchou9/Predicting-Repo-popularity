@@ -16,7 +16,7 @@ print('\nstopwords downloading completed! Application is running.')
 
 header={'Accept':'application/vnd.github.mercy-preview+json',
 'visibility':'PUBLIC',
-"Authorization": "token PASTE_YOUR_GITHUB_TOKEN_HERE"
+"Authorization": "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"
 }
 
 st.markdown(f'''<h1 style="text-align:center;color:#929aab;font-family:Bitter;font-size:54px;margin-bottom:20px">
